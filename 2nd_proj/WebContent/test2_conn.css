@@ -1,0 +1,37 @@
+@charset "EUC-KR";
+
+*{margin:0; padding:0;}
+
+body {
+	padding : 100px;
+}
+ul {
+	list-style : none;
+	
+}
+a {
+	text-decoration : none;
+}
+#head {
+	text-align : center;
+	margin-bottom : 20px;
+}
+li {
+	background-color : white;
+	border-bottom : 1px solid black;
+	line-height : 70px;
+	text-align : center;
+	outline : none;
+}
+
+
+#side{
+	font-size : 20px;
+    width : 200px;
+    float : left !important;
+
+}
+ 
+#main {
+	float : left;
+}
